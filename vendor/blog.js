@@ -170,7 +170,7 @@
 
     //// For comment systems
     entryUrl = 'http://Derekgame2013.github.io/blog';
-    shortName = 'Derek-blog';
+    shortName = 'yulidai';
 
     pageExt = '.md';
     pageBase = 'p/';
