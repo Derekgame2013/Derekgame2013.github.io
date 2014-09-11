@@ -169,7 +169,7 @@
     });
 
     //// For comment systems
-    entryUrl = 'http://derekgame2013.github.io/blog';
+    entryUrl = 'http://Derekgame2013.github.io/blog';
     shortName = 'Derek-blog';
 
     pageExt = '.md';
