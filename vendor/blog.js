@@ -1,5 +1,5 @@
 /**
- * Created by fritx on 5/7/14.
+ * Created by Derek on 11/9/14.
  */
 
 (function () {
@@ -169,8 +169,8 @@
     });
 
     //// For comment systems
-    entryUrl = 'http://fritx.github.io/blog';
-    shortName = 'fritx-blog';
+    entryUrl = 'http://derekgame2013.github.io/blog';
+    shortName = 'Derek-blog';
 
     pageExt = '.md';
     pageBase = 'p/';

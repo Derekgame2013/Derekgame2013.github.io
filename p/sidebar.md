@@ -1,9 +1,6 @@
-# [Fritx's Blog](..)
+# [Derek's Blog](..)
 
-> Life is short, I use JS
+> Life is short, I use Python 
 
-- [Tweets](tweets.md)
 - [Diary](diary.md)
-- [Techniques](tech.md)
-- [Projects](projects.md)
 - [About Me](aboutme.md)

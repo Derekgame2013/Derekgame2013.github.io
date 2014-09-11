@@ -1,20 +1,13 @@
 # About Me
 
-## Fritz Lin
+## Derek
 
 <img src="avatar.jpg" width="240">
 
-> Life is short, I use JS
+> Life is short, I use Python
 
-## Major
+## To be continued
 
-- Node.js / JavaScript Programming
-- Website Design (CSS / HTML)
 
-## College Studying In
 
-CS College in WYU, China
 
-## On Github
-
-[@fritx](https://github.com/fritx)
